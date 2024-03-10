@@ -44,9 +44,10 @@ fi
 
 # Activate Shad's zsh git prompt
 source "$HOME/.zsh-git-prompt/git-prompt.zsh"
-source "$HOME/.shad.zsh-theme"
+source "$HOME/.darc.zsh-theme"
 
 # Activate zsh syntax highlighting
+source "$HOME/.zsh-autosuggestions/zsh-autosuggestions.zsh"
 source "$HOME/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
 
 # Telegram notifier

@@ -12,6 +12,7 @@ install_from_github() {
 }
 
 install_from_github "woefe/git-prompt.zsh"
+install_from_github "zsh-users/zsh-autosuggestions"
 install_from_github "zsh-users/zsh-syntax-highlighting"
 install_from_github "magicmonty/bash-git-prompt"
 install_from_github "tpope/vim-pathogen"
