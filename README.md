@@ -1,5 +1,5 @@
 # Installation
 
 - Make your default shell ZSH
-- `git clone git@github.com:shadanan/dotfiles.git .dotfiles`
+- `git clone git@github.com:Darcmon/dotfiles.git .dotfiles`
 - `.dotfiles/install`

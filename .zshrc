@@ -42,7 +42,7 @@ if [ -x "$(command -v brew)" ]; then
   autoload -Uz compinit && compinit -u
 fi
 
-# Activate Shad's zsh git prompt
+# Activate Rich's zsh git prompt
 source "$HOME/.zsh-git-prompt/git-prompt.zsh"
 source "$HOME/.darc.zsh-theme"
 
